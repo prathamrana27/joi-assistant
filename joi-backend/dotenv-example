@@ -1,0 +1,7 @@
+create a .env file inside the main dir and structure it like this with your api keys
+
+OPENAI_API_KEY=gxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GEMINI_API_KEY=Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GOOGLE_API_KEY=Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GOOGLE_SEARCH_ENGINE_ID=519xxxxxxxxxx
+GOOGLE_SEARCH_API_KEY=AIzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
